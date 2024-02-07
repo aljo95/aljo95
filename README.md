@@ -3,8 +3,7 @@
 * Studied Computer Engineering at KTH, Royal Institute of Technology
 * I focus on web and application development but I have also got a slight interest for embedded systems
 * Full-stack
-* FOSS advocate
-* Looking to connect with and learn more from senior developers
+* FOSS enjoyer
 
 ## Tech Stack 💻
 ### Languages 

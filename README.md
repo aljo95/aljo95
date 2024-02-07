@@ -1,4 +1,4 @@
-## <p style="text-align: center; font-size: 26px;">Alex Johansson, Web Development GitHub</p>
+## <p style="text-align: center; font-size: 26px;">Web Development Focused GitHub</p>
 ### About me
 * Studied Computer Engineering at KTH, Royal Institute of Technology
 * I focus on web and application development but I have also got a slight interest for embedded systems

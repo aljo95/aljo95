@@ -1,4 +1,4 @@
-## <p style="text-align: center; font-size: 26px;">Web Development Focused GitHub</p>
+## <p style="text-align: center; font-size: 26px;">Web and Mobile Application Development Focused GitHub</p>
 
 ### Main Languages 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -8,8 +8,5 @@
 ![C Programming Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <br>
 ## Contact
-Contact me if you have questions about anything or if you want to collaborate on open source projects.
-<br>
-
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoh.github.95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-johansson-912665288/)

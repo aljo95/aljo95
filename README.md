@@ -1,4 +1,4 @@
-## <p style="text-align: center; font-size: 26px;">Web and Mobile Application Development Focused GitHub (and some Godot game dev)</p>
+## <p style="text-align: center; font-size: 26px;">Web and Mobile Application Development Focused GitHub</p>
 
 ### Main Languages 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
